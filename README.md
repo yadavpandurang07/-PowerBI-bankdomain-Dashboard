@@ -17,9 +17,6 @@ The dashboard provides actionable insights into sales trends, profit, and custom
 - DAX measures for business calculations
 - Drill-down and trend analysis
 
-##  Dataset
-Sales data stored in Excel format and transformed in Power BI.
-
 ##  Dashboard Preview
 ![C:\Users\window11\OneDrive\Desktop\screenshot 2.png](https://github.com/yadavpandurang07/-PowerBI-bankdomain-Dashboard/blob/main/screenshot%202.png?raw=true)
 
